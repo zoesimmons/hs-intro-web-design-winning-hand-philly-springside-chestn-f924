@@ -29,3 +29,7 @@ Get your HTML set up for your King. You'll want to mimic the same pattern of HTM
 
 Get your styling situated by taking a look at `css/style.css`. You probably will want to mimic the styling used in the CSS from the id `ace`. Pay attention to the value of the `left` property in the CSS. If every card is positioned in the same place, then it's like stacking the cards on top of each other. The goal is to keep a distance of 5px between every single card.
 
+### Step 5: Done 
+
+In order to get credit for finishing this lab, in Nitrous, in terminal in the directory of this lab enter `learn submit`.
+
