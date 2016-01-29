@@ -34,4 +34,4 @@ Get your styling situated by taking a look at `css/style.css`. You probably will
 In order to get credit for finishing this lab, in Nitrous, in terminal in the directory of this lab enter `learn submit`.
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-winning-hand' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-winning-hand' title='Winning Hand'>Winning Hand</a> on Learn.co and start learning to code for free.</p>
