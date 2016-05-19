@@ -77,5 +77,54 @@ h3 {
     background-color: white;
 }
 
+#king {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 210px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
 
+#queen {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 415px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
 
+#jack {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 620px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+
+#ten {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 825px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
